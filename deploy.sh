@@ -1,3 +1,4 @@
-this filr contains the dev files
-this  file contains the deployment tools
+updated this line also
+this line updating in master branch
+this  file contains the deployment script
 
